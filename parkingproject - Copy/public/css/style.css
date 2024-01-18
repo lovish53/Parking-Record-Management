@@ -1,0 +1,19 @@
+#login{
+    display: flex;
+    align-items: center;
+    height: 640px;
+}
+
+#header{
+    background-color: blueviolet;
+}
+#header ul li a{
+    color: aliceblue;
+}
+#mid h2{
+    text-align: center;
+}
+#footer{
+    background-color: blueviolet;
+    text-align: center;
+}
